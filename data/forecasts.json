@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "2023-03-23",
+    "city": "San Francisco",
+    "country": "US",
+    "temperature": 58,
+    "humidity": 85,
+    "windSpeed": 15,
+    "description": "Rainy"
+  },
+  {
+    "id": 2,
+    "date": "2023-03-23",
+    "city": "Tokyo",
+    "country": "JP",
+    "temperature": 72,
+    "humidity": 50,
+    "windSpeed": 5,
+    "description": "Sunny"
+  },
+  {
+    "id": 3,
+    "date": "2023-03-23",
+    "city": "London",
+    "country": "GB",
+    "temperature": 48,
+    "humidity": 60,
+    "windSpeed": 20,
+    "description": "Cloudy"
+  }
+]
